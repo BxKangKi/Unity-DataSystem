@@ -1,4 +1,4 @@
-namespace DatsSystem.Fixed {
+namespace Fixed {
     [System.Serializable]
     public struct Quaternion {
         public Real x;

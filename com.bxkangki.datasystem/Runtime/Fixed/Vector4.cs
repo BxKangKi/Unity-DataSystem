@@ -1,4 +1,4 @@
-namespace DatsSystem.Fixed {
+namespace Fixed {
     [System.Serializable]
     public struct Vector4 {
         public Real x;

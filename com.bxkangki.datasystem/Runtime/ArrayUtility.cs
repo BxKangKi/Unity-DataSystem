@@ -1,5 +1,5 @@
 
-namespace DatsSystem {
+namespace DataSystem {
     public static class ArrayUtility {
         public static T[] Add<T>(T[] input, T value) {
             T[] result = new T[input.Length + 1];
